@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-DAY-2
-IN THIS PROJECT THE IMAGES AND USING THE INHERITANCE PROPERTIES IS CREATED
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
